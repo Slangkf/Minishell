@@ -93,7 +93,7 @@ Minishell@Tclouet-Seruff$>
 
 Type `exit` or press `Ctrl+D` to quit `minishell`.
 
-# Ressources
+# Resources
 
 *This section lists references related to the topic, as well as a description of how AI has been used :*
 
